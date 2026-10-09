@@ -9,6 +9,8 @@ Been using a variety of OSINT ttols online but this one caught my eye so I'll be
 
 <img width="975" height="1306" alt="Screenshot From 2026-10-09 16-01-34" src="https://github.com/user-attachments/assets/ab033e8e-c4e2-4a4b-8ce7-1e3a0380c7b5" />
 
+After installing node.js and npm I then clone the official repository of osiris from github
+
 <img width="975" height="1306" alt="Screenshot From 2026-10-09 16-01-41" src="https://github.com/user-attachments/assets/4d01179b-c0f5-440c-8fc2-14196cf91237" />
 
 Had a little trouble in the first few minutes but realized i only made a typing error which i then corrected

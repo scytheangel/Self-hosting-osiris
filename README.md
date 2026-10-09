@@ -5,6 +5,8 @@ Here is a document on my process of self hosting open source intelligence (OSINT
 
 Been using a variety of OSINT ttols online but this one caught my eye so I'll be self hosting it on my machine.
 
+<h1>Step 1: Install Node.js 20+ and npm</h1>
+
 <img width="975" height="1306" alt="Screenshot From 2026-10-09 16-01-34" src="https://github.com/user-attachments/assets/ab033e8e-c4e2-4a4b-8ce7-1e3a0380c7b5" />
 
 <img width="975" height="1306" alt="Screenshot From 2026-10-09 16-01-41" src="https://github.com/user-attachments/assets/4d01179b-c0f5-440c-8fc2-14196cf91237" />
